@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2563EB,100:06B6D4&height=220&section=header&text=NGUYEN%20DUC%20AN&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2563EB,100:06B6D4&height=220&section=header&text=NGUYEN%20QUANG%20HUNG&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ```python
 class AIEngineer:
-    name     = "Nguyen Duc An"
+    name     = "Nguyen QUANG HUNG"
     role     = "AI Engineer"
     focus    = ["RAG Systems", "AI Agents (LangGraph, MCP)", "Computer Vision"]
     security = ["AWS Security", "Threat Intelligence"]
@@ -72,16 +72,16 @@ class AIEngineer:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=06B6D4&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hung1962003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=06B6D4&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hung1962003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6AD3F7&currStreakLabel=6AD3F7" />
+  <img src="https://streak-stats.demolab.com?user=hung1962003&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6AD3F7&currStreakLabel=6AD3F7" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=06B6D4&point=ffffff&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hung1962003&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=06B6D4&point=ffffff&area=true" />
 </div>
 
 <!-- ============ SNAKE ============ -->
@@ -89,9 +89,9 @@ class AIEngineer:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" alt="Contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hung1962003/hung1962003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hung1962003/hung1962003/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/hung1962003/hung1962003/output/github-snake.svg" alt="Contribution snake animation" />
   </picture>
 </div>
 
