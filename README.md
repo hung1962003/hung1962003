@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=06B6D4&style=flat-square" />
-  <a href="https://github.com/USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=2563EB" /></a>
-  <a href="https://www.linkedin.com/in/LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=/hung1962003&label=Profile%20views&color=06B6D4&style=flat-square" />
+  <a href="https://github.com//hung1962003?tab=followers"><img src="https://img.shields.io/github/followers/hung1962003?label=Followers&style=flat-square&color=2563EB" /></a>
+  <a href="https://www.linkedin.com/in/hung-nguyen-2b1960291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hung44570@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- ============ ABOUT ============ -->
